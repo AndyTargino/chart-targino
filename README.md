@@ -6,9 +6,7 @@ Open for PRs and contributions!
 # UPDATE to 2.x
 As of 2.x we have made chart.js a peer dependency for greater flexibility. Please add chart.js as a dependency on your project to use 2.x. Currently, 2.5.x is the recommended version of chart.js to use.
 
-## Demo & Examples
-
-Live demo: [jerairrest.github.io/chart-targino](http://jerairrest.github.io/chart-targino/)
+## Examples
 
 To build the examples locally, run:
 
@@ -216,5 +214,5 @@ To build, watch and serve the examples (which will also watch the component sour
 ## License
 
 MIT Licensed
-Copyright (c) 2017 Jeremy Ayerst
+Copyright (c) 2022 Anderson Targino
 
